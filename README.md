@@ -1,5 +1,5 @@
 # YAML
-LUA YAML parser, based on [js-lua](https://github.com/tj/js-yaml/) , fast and tiny. Although this implementation does not currently support the entire YAML specification, feel free to fork the project and submit a patch :)
+LUA YAML parser, based on [js-yaml](https://github.com/tj/js-yaml/) , fast and tiny. Although this implementation does not currently support the entire YAML specification, feel free to fork the project and submit a patch :)
 
 # Usage
 
